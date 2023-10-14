@@ -1,6 +1,6 @@
 ### Sop-X
 
-Here are some ideas to get you started:
+Here are some ideas to get you started: 
 - 🔭 I’m currently working on Module 6
 - 🌱 I’m currently learning Racket
 - 👯 I’m looking to collaborate on a project
