@@ -1,16 +1,21 @@
-### Sop-X
+# Sophia Xie's Resume
 
-<!--
-**Sop-X/Sop-X** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+##Education
+**Northeastern University**, Khoury College of COmputer Sciences
+*Candidate: Bachelor of Science in Articificial Intelligence*
+Boston, MA Sep 2023 - May 2023
 
-Here are some ideas to get you started:
+##Skills
+- Teamwork
+- Leadership
+- Problem Solving
+- Flexibility
 
-- 🔭 I’m currently working on Module 6
-- 🌱 I’m currently learning Racket
-- 👯 I’m looking to collaborate on a project
-- 🤔 I’m looking for help with Discrete
-- 💬 Ask me about events
-- 📫 How to reach me: xie.sop@northeastern.edu
-- 😄 Pronouns: She/Her
-- ⚡ Fun fact: I like to swim!
--->
+##Languages
+- English
+- Chinese
+
+##Work Experience
+Retail Associate
+- Maintain the sales floor and merchandise displays by coordinating with retail associates
+- Promote merchandise and greet every customer to increase customer satisfaction
