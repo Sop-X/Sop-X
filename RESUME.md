@@ -16,6 +16,7 @@ Boston, MA Sep 2023 - May 2023
 - Chinese
 
 ##Work Experience
-##Retail Associate
+
+Retail Associate
 - Maintain the sales floor and merchandise displays by coordinating with retail associates
 - Promote merchandise and greet every customer to increase customer satisfaction
