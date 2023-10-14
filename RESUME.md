@@ -5,7 +5,7 @@
 *Candidate: Bachelor of Science in Articificial Intelligence*
 Boston, MA Sep 2023 - May 2023
 
-##Skills
+##Skills 
 - Teamwork
 - Leadership
 - Problem Solving
