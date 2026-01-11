@@ -1,7 +1,7 @@
 # Sophia Xie's Resume
 
 ##Education
-**Northeastern University**, Khoury College of COmputer Sciences
+**Northeastern University**, Khoury College of Computer Sciences
 *Candidate: Bachelor of Science in Articificial Intelligence*
 Boston, MA Sep 2023 - May 2023
 
